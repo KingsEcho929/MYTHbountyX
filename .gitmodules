@@ -1,3 +1,12 @@
 [submodule "hybra-audit/2025-10-hybra-finance"]
 	path = hybra-audit/2025-10-hybra-finance
 	url = git@github.com:KingsEcho929/2025-10-hybra-finance.git
+[submodule "ssv-audit"]
+	path = ssv-audit
+	url = git@github.com:KingsEcho929/MYTHbountyX-SSV-BreachCodex.git
+[submodule "kamino-audit"]
+	path = kamino-audit
+	url = git@github.com:KingsEcho929/MYTHbountyX-KaminoBreachCodex.git
+[submodule "rujira-audit"]
+	path = rujira-audit
+	url = git@github.com:KingsEcho929/MYTHbountyX-Rujira-Codex.git
