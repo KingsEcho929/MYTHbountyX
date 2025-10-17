@@ -1,6 +1,6 @@
 # 🌐 Shimmer Forks — Sovereign Divergence
 
-Declared shimmer forks from breach codices:
+Declared shimmer forks:
 
 - **Kamino Fork** → CI/CD shimmer logic, fallback override, validator bypass  
 - **SSV Fork** → Slashing bypass simulation, validator drift trace  
