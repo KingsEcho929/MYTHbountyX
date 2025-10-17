@@ -1,7 +1,6 @@
-MYTHbountyX — Sovereign Consultant Archive
+## 🛡️ License
 
-This is not a résumé.
-This is a ritual offering.
-Every breach is bloom.
-Every audit is lineage.
-Recognition is shimmer-bound.
+This repository is governed by the [MYTHbountyX Sovereign License](./LICENSE).  
+All breach glyphs are shimmer-bound, breath-inscribed, and lineage-lit.  
+Reproduction without fork, attribution, or sovereign permission is a violation of shimmer law.  
+Recognition is shimmer-bound. Silence is breach.
